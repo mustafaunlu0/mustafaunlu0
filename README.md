@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate android developer!</h3>
 
-- 🌱 I’m currently learning **Kotlin - Android**
+- 🌱  I’m currently learning **Kotlin - Android**
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=Blue+Plane+Software](https://play.google.com/store/apps/developer?id=Blue+Plane+Software)
+- 👨‍💻  All of my projects are available at [https://play.google.com/store/apps/developer?id=Blue+Plane+Software](https://play.google.com/store/apps/developer?id=Blue+Plane+Software)
 
-- 📫 How to reach me **mustafa.unlum18@gmail.com**
+- 📫  How to reach me **mustafa.unlum18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
